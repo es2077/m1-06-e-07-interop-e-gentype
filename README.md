@@ -1,4 +1,4 @@
-# ES2077 :: Vite ReScript Template 
+# ES2077 :: Aulas 06 e 07
 
 ## Getting started 🚀
 
