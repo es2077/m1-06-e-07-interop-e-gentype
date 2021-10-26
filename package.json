@@ -19,7 +19,9 @@
     "web-vitals": "2.0.1"
   },
   "devDependencies": {
+    "@types/react": "^17.0.32",
     "bs-date-fns": "^1.0.0-alpha.3",
+    "gentype": "^4.2.0",
     "typescript": "^4.4.4",
     "vite": "2.3.8"
   }
